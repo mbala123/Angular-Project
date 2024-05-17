@@ -1,0 +1,114 @@
+body{
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    height: max-content;
+    box-shadow: 10px 10px 5px rgba(1, 31, 41, 0.377);
+    color: black;
+    text-align: center;
+    border: 0.2px solid black;
+    border-radius: 25px;
+}
+.title{
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.Titles{
+    background-color: rgb(255, 252, 252);
+    width:123px;
+    padding: 0px 20px 0px 20px;
+    box-shadow: 10px 10px 10px rgba(1, 31, 41, 0.16);
+    margin-top: 20px;
+    border:0.5px solid black
+}
+.All{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.submitbtn{
+  padding: 0px 10px 15px 10px;
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+.forgetfield{
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+.submitbutton, .Cancelbutton{
+  background-color: orange;
+  border-radius: 25px;
+  border:none;
+  cursor: pointer;
+  padding: 10px 20px 10px 20px ;
+  font-size: 13px;
+  font-weight: 500;
+}
+.submitbutton:hover, .Cancelbutton:hover{
+  color: white;
+  box-shadow: 10px 10px 10px rgba(1, 31, 41, 0.16);
+  border: 0.5px solid black;
+}
+.form-group
+{
+    position:relative;
+    width:250px;
+    border-bottom: 2px solid black;
+    height: 36px;
+    padding-top: 20px;
+}
+
+.form-group label{
+    position:absolute;
+    top:30%;
+    left:5px;
+    transform:translateY(-50%);
+        color: black;
+    font-size:1em;
+    pointer-events:none;
+    transition:.5s;
+}
+label{
+  padding-top: 49px;
+}
+
+input:focus~label,
+input:focus~:valid {
+    top: -5px;
+}
+
+.form-group input{
+    width:100%;
+    height:50px;
+    background:transparent;
+    border:none;
+    outline:none;
+    font-size:1em;
+    color: black;
+}
+.forgetfield:hover{
+  text-shadow: 10px 10px 10px rgba(1, 31, 41, 0.614);
+}
+p{
+  font-size: 50px;
+}
+.section{
+  width: 350px;
+    background-color: rgb(255, 255, 255);
+    height: max-content;
+    box-shadow: 10px 10px 5px rgba(1, 31, 41, 0.292);
+    color: black;
+    text-align: center;
+    border: 0.2px solid black;
+    border-radius: 25px;
+    margin-top: -146px !important;
+}

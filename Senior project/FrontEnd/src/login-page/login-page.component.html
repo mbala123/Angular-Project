@@ -1,0 +1,98 @@
+<body class="body" *ngIf="checking;else elseBlock" >
+  <section>
+   <div class="All">
+    <div class="Login">
+      <div class="title">
+        <span class="Titles">
+          Login
+        </span>
+      </div>
+      <div class="dataFields">
+        <div class="Input-tags">
+          <div class="UserNameField form-group">
+            <input type="text" id="UserName" (change)="NameFielddata()">
+            <label>{{NameField}}</label>
+          </div>
+          <div class="PasswordField form-group">
+            <input type="password" id="Password" (change)="PasswordFielddata()" >
+            <label>{{PasswordField}}</label>
+          </div>
+        </div>
+        <div class="buttons">
+          <div class="submitbtn">
+            <input type="submit" class="submitbutton" value="Submit">
+          </div>
+          <div class="submitbtn">
+            <input type="submit" class="Cancelbutton" value="Cancel">
+          </div>
+        </div>
+        <div class="forgetfield">
+          <span>Forget Password</span>
+        </div>
+        <div class="CommunityField">
+          
+        </div>
+      </div>
+    </div>
+   </div>
+  </section>
+</body>
+<ng-template #elseBlock>
+    <section class="section">
+      <div class="All">
+        <div class="SignIn">
+          <div class="title">
+            <summary class="Titles">
+              Sign In
+            </summary>
+          </div>
+          <div class="dataFields">
+            <div class="Input-tags">
+              <div class="UserNameField form-group">
+                <input type="text" id="UserName" (change)="NameFielddata()">
+                <label>{{NameField}}</label>
+              </div>
+              <div class="PasswordField form-group">
+                <input type="password" id="Password" (change)="PasswordFielddata()" >
+                <label>{{PasswordField}}</label>
+              </div>
+              <div class="PasswordField form-group">
+                <input type="password" id="Password" (change)="PasswordFielddata()" >
+                <label>{{PasswordField}}</label>
+              </div>
+              <div class="PasswordField form-group">
+                <input type="password" id="Password" (change)="PasswordFielddata()" >
+                <label>{{PasswordField}}</label>
+              </div>
+              <div class="PasswordField form-group">
+                <input type="password" id="Password" (change)="PasswordFielddata()" >
+                <label>{{PasswordField}}</label>
+              </div>
+              <div class="PasswordField form-group">
+                <input type="password" id="Password" (change)="PasswordFielddata()" >
+                <label>{{PasswordField}}</label>
+              </div>
+              <div class="PasswordField form-group">
+                <input type="password" id="Password" (change)="PasswordFielddata()" >
+                <label>{{PasswordField}}</label>
+              </div>
+            </div>
+            <div class="buttons">
+              <div class="submitbtn">
+                <input type="submit" class="submitbutton" value="Submit">
+              </div>
+              <div class="submitbtn">
+                <input type="submit" class="Cancelbutton" value="Cancel">
+              </div>
+            </div>
+            <div class="forgetfield">
+              <span>Click Here For Help</span>
+            </div>
+            <div class="CommunityField">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+</ng-template>

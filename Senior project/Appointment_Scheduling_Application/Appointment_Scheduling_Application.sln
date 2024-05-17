@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment_Scheduling_Application.WebAPI", "Appointment_Scheduling_Application\Appointment_Scheduling_Application.WebAPI.csproj", "{3CA9BD12-BD25-4594-89C5-8B07831340FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{3CF300D6-03EF-4EC5-840D-F8109A4852F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment_Scheduling_Application.Services.Test", "Tests\Appointment_Scheduling_Application.Services\Appointment_Scheduling_Application.Services.Test.csproj", "{79056100-2574-47FE-AB2B-2E816BCE12D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment_Scheduling_Application.Repositories.Test", "Tests\Appointment_Scheduling_Application.Repositories\Appointment_Scheduling_Application.Repositories.Test.csproj", "{B15E837C-D1CF-40DE-B73B-CE2432F72A2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment_Scheduling_Application.WebAPI.Tests", "Tests\Appointment_Scheduling_Application.WebAPI.Tests\Appointment_Scheduling_Application.WebAPI.Tests.csproj", "{C8E88351-DF88-4C91-B6A4-9B99B9F77292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appointment_Scheduling_Application.Entitie", "Appointment_Scheduling_Application.Entitie\Appointment_Scheduling_Application.Entitie.csproj", "{BF09E092-8052-40AA-9D37-857EBC919EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appointment_Scheduling_Application.DTO", "Appointment_Scheduling_Application.DTO\Appointment_Scheduling_Application.DTO.csproj", "{93497CA0-A2F0-423C-B94F-0816F718EBD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment_Scheduling_Application.Repositories", "Appointment_Scheduling_Application.Repositories\Appointment_Scheduling_Application.Repositories.csproj", "{B1010B27-F07C-4F55-93B9-CF50FAD25D46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment_Scheduling_Application.Services", "Appointment_Scheduling_Application.Services\Appointment_Scheduling_Application.Services.csproj", "{4721C40F-D2E2-404E-8DE6-10ADEA7F137D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA9BD12-BD25-4594-89C5-8B07831340FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA9BD12-BD25-4594-89C5-8B07831340FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA9BD12-BD25-4594-89C5-8B07831340FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA9BD12-BD25-4594-89C5-8B07831340FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79056100-2574-47FE-AB2B-2E816BCE12D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79056100-2574-47FE-AB2B-2E816BCE12D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79056100-2574-47FE-AB2B-2E816BCE12D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79056100-2574-47FE-AB2B-2E816BCE12D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15E837C-D1CF-40DE-B73B-CE2432F72A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15E837C-D1CF-40DE-B73B-CE2432F72A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15E837C-D1CF-40DE-B73B-CE2432F72A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15E837C-D1CF-40DE-B73B-CE2432F72A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E88351-DF88-4C91-B6A4-9B99B9F77292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E88351-DF88-4C91-B6A4-9B99B9F77292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E88351-DF88-4C91-B6A4-9B99B9F77292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E88351-DF88-4C91-B6A4-9B99B9F77292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF09E092-8052-40AA-9D37-857EBC919EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF09E092-8052-40AA-9D37-857EBC919EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF09E092-8052-40AA-9D37-857EBC919EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF09E092-8052-40AA-9D37-857EBC919EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93497CA0-A2F0-423C-B94F-0816F718EBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93497CA0-A2F0-423C-B94F-0816F718EBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93497CA0-A2F0-423C-B94F-0816F718EBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93497CA0-A2F0-423C-B94F-0816F718EBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1010B27-F07C-4F55-93B9-CF50FAD25D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1010B27-F07C-4F55-93B9-CF50FAD25D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1010B27-F07C-4F55-93B9-CF50FAD25D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1010B27-F07C-4F55-93B9-CF50FAD25D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4721C40F-D2E2-404E-8DE6-10ADEA7F137D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4721C40F-D2E2-404E-8DE6-10ADEA7F137D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4721C40F-D2E2-404E-8DE6-10ADEA7F137D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4721C40F-D2E2-404E-8DE6-10ADEA7F137D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79056100-2574-47FE-AB2B-2E816BCE12D3} = {3CF300D6-03EF-4EC5-840D-F8109A4852F0}
+		{B15E837C-D1CF-40DE-B73B-CE2432F72A2D} = {3CF300D6-03EF-4EC5-840D-F8109A4852F0}
+		{C8E88351-DF88-4C91-B6A4-9B99B9F77292} = {3CF300D6-03EF-4EC5-840D-F8109A4852F0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EBD193-3D81-437D-A5F4-12C09832D3B5}
+	EndGlobalSection
+EndGlobal

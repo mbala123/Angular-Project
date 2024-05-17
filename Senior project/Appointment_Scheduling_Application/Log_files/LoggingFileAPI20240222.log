@@ -1,0 +1,281 @@
+2024-02-22 17:44:03.486 +05:30 [INF] User profile is available. Using 'C:\Users\naveen.devendran\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-22 17:44:03.763 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-22 17:44:03.765 +05:30 [INF] Hosting environment: Development
+2024-02-22 17:44:03.765 +05:30 [INF] Content root path: D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application\
+2024-02-22 17:44:03.791 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger - -
+2024-02-22 17:44:03.880 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/index.html - -
+2024-02-22 17:44:03.886 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger - - - 301 - - 96.9953ms
+2024-02-22 17:44:04.746 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/swagger-ui-bundle.js - -
+2024-02-22 17:44:04.746 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/swagger-ui.css - -
+2024-02-22 17:44:04.747 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/swagger-ui-standalone-preset.js - -
+2024-02-22 17:44:04.747 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2024-02-22 17:44:04.759 +05:30 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-02-22 17:44:04.761 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/index.html - - - 200 - text/html;charset=utf-8 880.9601ms
+2024-02-22 17:44:04.765 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-02-22 17:44:04.765 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-02-22 17:44:04.769 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/swagger-ui.css - - - 200 143632 text/css 22.8817ms
+2024-02-22 17:44:04.773 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-02-22 17:44:04.780 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 33.3286ms
+2024-02-22 17:44:04.816 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 70.1092ms
+2024-02-22 17:44:04.830 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 83.4567ms
+2024-02-22 17:44:05.051 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2024-02-22 17:44:05.080 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/favicon-32x32.png - -
+2024-02-22 17:44:05.080 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-02-22 17:44:05.080 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/favicon-32x32.png - - - 200 628 image/png 0.8312ms
+2024-02-22 17:44:05.257 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 206.6387ms
+2024-02-22 17:45:45.707 +05:30 [INF] User profile is available. Using 'C:\Users\naveen.devendran\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-22 17:45:45.852 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-22 17:45:45.856 +05:30 [INF] Hosting environment: Development
+2024-02-22 17:45:45.856 +05:30 [INF] Content root path: D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application\
+2024-02-22 17:45:45.874 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/index.html - -
+2024-02-22 17:45:46.306 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2024-02-22 17:45:46.321 +05:30 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-02-22 17:45:46.328 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/index.html - - - 200 - text/html;charset=utf-8 457.0956ms
+2024-02-22 17:45:46.377 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 70.0937ms
+2024-02-22 17:45:46.561 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2024-02-22 17:45:46.730 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 168.7167ms
+2024-02-22 17:46:42.462 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/User/CreateUser multipart/form-data;+boundary=----WebKitFormBoundaryGpCb4gtVQd7fhxMI 290827
+2024-02-22 17:46:42.472 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:46:42.473 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:46:42.499 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.CreateUser (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:46:42.616 +05:30 [INF] Route matched with {action = "CreateUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Boolean]] CreateUser(Appointment_Scheduling_Application.DTOs.DTOs.UserCreateModel) on controller Appointment_Scheduling_Application.WebAPI.Controllers.UserController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:46:45.546 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Boolean'.
+2024-02-22 17:46:45.558 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.UserController.CreateUser (Appointment_Scheduling_Application.WebAPI) in 2934.5658ms
+2024-02-22 17:46:45.559 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.CreateUser (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:46:45.570 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/User/CreateUser multipart/form-data;+boundary=----WebKitFormBoundaryGpCb4gtVQd7fhxMI 290827 - 200 - application/json;+charset=utf-8 3107.9711ms
+2024-02-22 17:47:03.821 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/User/SignIn multipart/form-data;+boundary=----WebKitFormBoundaryBEVA7Ant0QeA6JWi 262
+2024-02-22 17:47:03.825 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:47:03.825 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:47:03.826 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.SignIn (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:47:03.829 +05:30 [INF] Route matched with {action = "SignIn", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Boolean] SignIn(Appointment_Scheduling_Application.DTO.DTOs.LoginModel) on controller Appointment_Scheduling_Application.WebAPI.Controllers.UserController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:47:03.912 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Boolean'.
+2024-02-22 17:47:03.913 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.UserController.SignIn (Appointment_Scheduling_Application.WebAPI) in 83.5099ms
+2024-02-22 17:47:03.913 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.SignIn (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:47:03.913 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/User/SignIn multipart/form-data;+boundary=----WebKitFormBoundaryBEVA7Ant0QeA6JWi 262 - 200 - application/json;+charset=utf-8 92.3578ms
+2024-02-22 17:47:43.896 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - -
+2024-02-22 17:47:44.023 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-22 17:47:44.026 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-02-22 17:47:44.029 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - - - 401 - - 132.8824ms
+2024-02-22 17:48:11.274 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/GenerateTokenforqrcode?email=ndeva6798%40gmail.com - -
+2024-02-22 17:48:11.278 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-22 17:48:11.278 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-02-22 17:48:11.279 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/GenerateTokenforqrcode?email=ndeva6798%40gmail.com - - - 401 - - 4.9902ms
+2024-02-22 17:48:29.056 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/GetToken?email=ndeva6798%40gmail.com - -
+2024-02-22 17:48:29.056 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:48:29.061 +05:30 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.String] GetToken(System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:48:29.289 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-02-22 17:48:29.289 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI) in 227.8578ms
+2024-02-22 17:48:29.289 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:48:29.290 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/GetToken?email=ndeva6798%40gmail.com - - - 200 - text/plain;+charset=utf-8 234.2428ms
+2024-02-22 17:48:49.734 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/MailSending/GetBySendingEmail?email=ndeva6798%40gmail.com - -
+2024-02-22 17:48:49.905 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.MailSendingController.GetBySendingEmail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:48:49.911 +05:30 [INF] Route matched with {action = "GetBySendingEmail", controller = "MailSending"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Appointment_Scheduling_Application.Entitie.Model.MailSendingModel]]] GetBySendingEmail(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.MailSendingController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:48:50.059 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Appointment_Scheduling_Application.Entitie.Model.MailSendingModel, Appointment_Scheduling_Application.Entitie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-02-22 17:48:50.062 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.MailSendingController.GetBySendingEmail (Appointment_Scheduling_Application.WebAPI) in 151.6241ms
+2024-02-22 17:48:50.063 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.MailSendingController.GetBySendingEmail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:48:50.064 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/MailSending/GetBySendingEmail?email=ndeva6798%40gmail.com - - - 200 - application/json;+charset=utf-8 330.2416ms
+2024-02-22 17:48:56.087 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/GenerateTokenforqrcode?email=ndeva6798%40gmail.com - -
+2024-02-22 17:48:56.088 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GenerateTokenforqrcode (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:48:56.091 +05:30 [INF] Route matched with {action = "GenerateTokenforqrcode", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.String] GenerateTokenforqrcode(System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:48:56.193 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-02-22 17:48:56.193 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GenerateTokenforqrcode (Appointment_Scheduling_Application.WebAPI) in 102.6734ms
+2024-02-22 17:48:56.193 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GenerateTokenforqrcode (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:48:56.194 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/GenerateTokenforqrcode?email=ndeva6798%40gmail.com - - - 200 - text/plain;+charset=utf-8 106.8890ms
+2024-02-22 17:49:18.851 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0
+2024-02-22 17:49:18.851 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:49:18.852 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:49:18.852 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:49:18.856 +05:30 [INF] Route matched with {action = "confirmMail", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] confirmMail(System.String, System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:49:18.878 +05:30 [WRN] VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user.
+2024-02-22 17:49:18.880 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-02-22 17:49:18.881 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI) in 24.9039ms
+2024-02-22 17:49:18.881 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:49:18.881 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0 - 200 - text/plain;+charset=utf-8 29.9293ms
+2024-02-22 17:50:10.353 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - -
+2024-02-22 17:50:10.354 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:10.361 +05:30 [INF] Route matched with {action = "EmailVerification", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmailVerification(System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:24.681 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0
+2024-02-22 17:50:24.682 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:50:24.682 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:50:24.682 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:24.682 +05:30 [INF] Route matched with {action = "confirmMail", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] confirmMail(System.String, System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:24.686 +05:30 [WRN] VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user.
+2024-02-22 17:50:24.686 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-02-22 17:50:24.687 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI) in 4.6185ms
+2024-02-22 17:50:24.687 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:24.688 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0 - 200 - text/plain;+charset=utf-8 6.1724ms
+2024-02-22 17:50:26.984 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0
+2024-02-22 17:50:26.985 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:50:26.985 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:50:26.985 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:26.985 +05:30 [INF] Route matched with {action = "confirmMail", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] confirmMail(System.String, System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:26.988 +05:30 [WRN] VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user.
+2024-02-22 17:50:26.988 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-02-22 17:50:26.989 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI) in 3.532ms
+2024-02-22 17:50:26.989 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:26.990 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0 - 200 - text/plain;+charset=utf-8 5.3770ms
+2024-02-22 17:50:27.175 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0
+2024-02-22 17:50:27.176 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:50:27.176 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:50:27.177 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:27.177 +05:30 [INF] Route matched with {action = "confirmMail", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] confirmMail(System.String, System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:27.184 +05:30 [WRN] VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user.
+2024-02-22 17:50:27.184 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-02-22 17:50:27.185 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI) in 7.2128ms
+2024-02-22 17:50:27.185 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:27.185 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0 - 200 - text/plain;+charset=utf-8 10.2455ms
+2024-02-22 17:50:27.418 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0
+2024-02-22 17:50:27.418 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:50:27.419 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:50:27.419 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:27.419 +05:30 [INF] Route matched with {action = "confirmMail", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] confirmMail(System.String, System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:27.422 +05:30 [WRN] VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user.
+2024-02-22 17:50:27.422 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-02-22 17:50:27.423 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI) in 3.7305ms
+2024-02-22 17:50:27.423 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:27.424 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0 - 200 - text/plain;+charset=utf-8 5.8165ms
+2024-02-22 17:50:27.701 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0
+2024-02-22 17:50:27.701 +05:30 [INF] CORS policy execution failed.
+2024-02-22 17:50:27.701 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2024-02-22 17:50:27.702 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:27.702 +05:30 [INF] Route matched with {action = "confirmMail", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] confirmMail(System.String, System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:27.706 +05:30 [WRN] VerifyUserTokenAsync() failed with purpose: EmailConfirmation for user.
+2024-02-22 17:50:27.706 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-02-22 17:50:27.706 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI) in 4.6578ms
+2024-02-22 17:50:27.707 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.confirmMail (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:27.707 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/confirmMail?email=ndeva6798%40gmail.com&token=KNJCU5HBZNMA2XLXDNC35IXTGL65KHIK - 0 - 200 - text/plain;+charset=utf-8 6.1957ms
+2024-02-22 17:50:28.919 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI) in 18558.0704ms
+2024-02-22 17:50:28.921 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:29.056 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.MailGenerator(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 43
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.Sendingmail(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 16
+   at Appointment_Scheduling_Application.Services.Auth_Services.AuthServices.EmailVerificationtokenGenrator(String email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\Auth Services\AuthServices.cs:line 32
+   at Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification(String Email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application\Auth\AuthController.cs:line 26
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-02-22 17:50:29.063 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - - - 500 - text/plain;+charset=utf-8 18709.4486ms
+2024-02-22 17:50:39.007 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - -
+2024-02-22 17:50:39.009 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:39.009 +05:30 [INF] Route matched with {action = "EmailVerification", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmailVerification(System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:41.395 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI) in 2385.324ms
+2024-02-22 17:50:41.395 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:41.401 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.MailGenerator(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 43
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.Sendingmail(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 16
+   at Appointment_Scheduling_Application.Services.Auth_Services.AuthServices.EmailVerificationtokenGenrator(String email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\Auth Services\AuthServices.cs:line 32
+   at Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification(String Email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application\Auth\AuthController.cs:line 26
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-02-22 17:50:41.410 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - - - 500 - text/plain;+charset=utf-8 2402.4459ms
+2024-02-22 17:50:56.534 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - -
+2024-02-22 17:50:56.535 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:56.535 +05:30 [INF] Route matched with {action = "EmailVerification", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmailVerification(System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:50:59.079 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI) in 2544.1171ms
+2024-02-22 17:50:59.080 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:50:59.087 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.MailGenerator(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 43
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.Sendingmail(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 16
+   at Appointment_Scheduling_Application.Services.Auth_Services.AuthServices.EmailVerificationtokenGenrator(String email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\Auth Services\AuthServices.cs:line 32
+   at Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification(String Email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application\Auth\AuthController.cs:line 26
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-02-22 17:50:59.093 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - - - 500 - text/plain;+charset=utf-8 2558.7407ms
+2024-02-22 17:51:01.773 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/index.html - -
+2024-02-22 17:51:01.827 +05:30 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2024-02-22 17:51:01.828 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/index.html - - - 200 - text/html;charset=utf-8 54.4317ms
+2024-02-22 17:51:01.861 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2024-02-22 17:51:01.927 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.7549ms
+2024-02-22 17:51:02.054 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2024-02-22 17:51:02.083 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 28.7170ms
+2024-02-22 17:51:07.878 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - -
+2024-02-22 17:51:07.879 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-22 17:51:07.880 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-02-22 17:51:07.881 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - - - 401 - - 2.8894ms
+2024-02-22 17:51:21.571 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - -
+2024-02-22 17:51:21.573 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:51:21.574 +05:30 [INF] Route matched with {action = "EmailVerification", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] EmailVerification(System.String) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2024-02-22 17:51:24.997 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI) in 3423.2111ms
+2024-02-22 17:51:24.998 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification (Appointment_Scheduling_Application.WebAPI)'
+2024-02-22 17:51:25.005 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. For more information, go to
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.MailGenerator(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 43
+   at Appointment_Scheduling_Application.Services.MailSendingService.MailNoticationSendingService.Sendingmail(String email, String message, String subject) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\MailSendingService\MailNoticationSendingService.cs:line 16
+   at Appointment_Scheduling_Application.Services.Auth_Services.AuthServices.EmailVerificationtokenGenrator(String email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Services\Auth Services\AuthServices.cs:line 32
+   at Appointment_Scheduling_Application.WebAPI.Auth.AuthController.EmailVerification(String Email) in D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application\Auth\AuthController.cs:line 26
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-02-22 17:51:25.012 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Auth/EmailVerification?Email=ndeva6798%40gmail.com - - - 500 - text/plain;+charset=utf-8 3440.6515ms

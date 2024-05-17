@@ -1,0 +1,158 @@
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\appsettings.Development.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\appsettings.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.exe
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.deps.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.runtimeconfig.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.pdb
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Humanizer.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.DTO.exe
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Entitie.exe
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.DTO.pdb
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.DTO.exe.config
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Entitie.pdb
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Entitie.exe.config
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.csproj.AssemblyReference.cache
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.AssemblyInfoInputs.cache
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.AssemblyInfo.cs
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.csproj.CoreCompileInputs.cache
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.MvcApplicationPartsAssemblyInfo.cs
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.MvcApplicationPartsAssemblyInfo.cache
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.Appointment_Scheduling_Application.Repositories.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.build.Appointment_Scheduling_Application.Repositories.props
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Appointment_Scheduling_Application.Repositories.props
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Appointment_Scheduling_Application.Repositories.props
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\scopedcss\bundle\Appointment_Scheduling_Application.Repositories.styles.css
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.csproj.CopyComplete
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\refint\Appointment_Scheduling_Application.Repositories.dll
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.pdb
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.genruntimeconfig.cache
+D:\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\ref\Appointment_Scheduling_Application.Repositories.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\appsettings.Development.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\appsettings.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.exe
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.deps.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.runtimeconfig.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Repositories.pdb
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Humanizer.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.DTO.exe
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Entitie.exe
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.DTO.pdb
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.DTO.exe.config
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Entitie.pdb
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\bin\Debug\net6.0\Appointment_Scheduling_Application.Entitie.exe.config
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.csproj.AssemblyReference.cache
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.AssemblyInfoInputs.cache
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.AssemblyInfo.cs
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.csproj.CoreCompileInputs.cache
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.MvcApplicationPartsAssemblyInfo.cs
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.MvcApplicationPartsAssemblyInfo.cache
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.Appointment_Scheduling_Application.Repositories.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.build.Appointment_Scheduling_Application.Repositories.props
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Appointment_Scheduling_Application.Repositories.props
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Appointment_Scheduling_Application.Repositories.props
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets.build.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\staticwebassets.development.json
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\scopedcss\bundle\Appointment_Scheduling_Application.Repositories.styles.css
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.csproj.CopyComplete
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\refint\Appointment_Scheduling_Application.Repositories.dll
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.pdb
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\Appointment_Scheduling_Application.Repositories.genruntimeconfig.cache
+D:\ALL COMPLETED DEMO PROJECT\ASSESMENT PROJECT\Appointment_Scheduling_Application\Appointment_Scheduling_Application.Repositories\obj\Debug\net6.0\ref\Appointment_Scheduling_Application.Repositories.dll

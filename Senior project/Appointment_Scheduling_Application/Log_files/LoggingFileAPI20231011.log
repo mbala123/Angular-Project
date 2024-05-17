@@ -1,0 +1,57 @@
+2023-10-11 15:11:35.180 +05:30 [INF] User profile is available. Using 'C:\Users\naveen.devendran\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-11 15:11:35.778 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-11 15:11:35.791 +05:30 [INF] Hosting environment: Development
+2023-10-11 15:11:35.798 +05:30 [INF] Content root path: D:\Assessment-Project\Appointment-Scheduling-App\Appointment_Scheduling_Application\Appointment_Scheduling_Application\
+2023-10-11 15:11:35.861 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/index.html - -
+2023-10-11 15:11:37.193 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2023-10-11 15:11:37.238 +05:30 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-10-11 15:11:37.250 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/index.html - - - 200 - text/html;charset=utf-8 1404.4870ms
+2023-10-11 15:11:37.386 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 192.5989ms
+2023-10-11 15:11:37.502 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2023-10-11 15:11:38.041 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 538.4971ms
+2023-10-11 15:12:59.519 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/User/CreateUser multipart/form-data;+boundary=----WebKitFormBoundaryX1lGIKC88TiokdqT 197840
+2023-10-11 15:12:59.585 +05:30 [INF] CORS policy execution failed.
+2023-10-11 15:12:59.585 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2023-10-11 15:12:59.611 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.CreateUser (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:12:59.766 +05:30 [INF] Route matched with {action = "CreateUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Boolean]] CreateUser(Appointment_Scheduling_Application.DTOs.DTOs.UserCreateModel) on controller Appointment_Scheduling_Application.WebAPI.Controllers.UserController (Appointment_Scheduling_Application.WebAPI).
+2023-10-11 15:13:10.100 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Boolean'.
+2023-10-11 15:13:10.135 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.UserController.CreateUser (Appointment_Scheduling_Application.WebAPI) in 10348.1823ms
+2023-10-11 15:13:10.147 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.CreateUser (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:13:10.180 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/User/CreateUser multipart/form-data;+boundary=----WebKitFormBoundaryX1lGIKC88TiokdqT 197840 - 200 - application/json;+charset=utf-8 10659.9178ms
+2023-10-11 15:15:36.016 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/User/UserGetByEmail?email=ndeva6798%40gmail.com - -
+2023-10-11 15:15:36.456 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-10-11 15:15:36.482 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2023-10-11 15:15:36.488 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/User/UserGetByEmail?email=ndeva6798%40gmail.com - - - 401 - - 477.3966ms
+2023-10-11 15:15:51.733 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 38
+2023-10-11 15:15:51.735 +05:30 [INF] CORS policy execution failed.
+2023-10-11 15:15:51.736 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2023-10-11 15:15:51.736 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:15:51.751 +05:30 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetToken(Appointment_Scheduling_Application.DTO.DTOs.EmailIdField) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2023-10-11 15:15:52.816 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-10-11 15:15:52.818 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI) in 1067.3865ms
+2023-10-11 15:15:52.819 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:15:52.819 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 38 - 200 - text/plain;+charset=utf-8 1085.8653ms
+2023-10-11 15:16:29.836 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/User/UserGetByEmail?email=ndeva6798%40gmail.com - -
+2023-10-11 15:16:30.155 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.UserGetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:16:30.170 +05:30 [INF] Route matched with {action = "UserGetByEmail", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] UserGetByEmail(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.UserController (Appointment_Scheduling_Application.WebAPI).
+2023-10-11 15:16:30.378 +05:30 [INF] Executing OkObjectResult, writing value of type 'Appointment_Scheduling_Application.DTOs.DTOs.UserViewModel'.
+2023-10-11 15:16:30.387 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.UserController.UserGetByEmail (Appointment_Scheduling_Application.WebAPI) in 216.6542ms
+2023-10-11 15:16:30.388 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.UserController.UserGetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:16:30.391 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/User/UserGetByEmail?email=ndeva6798%40gmail.com - - - 200 - application/json;+charset=utf-8 554.3645ms
+2023-10-11 15:31:11.816 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Appointment/CreateandUpdateAppointment application/json 223
+2023-10-11 15:31:11.817 +05:30 [INF] CORS policy execution failed.
+2023-10-11 15:31:11.818 +05:30 [INF] Request origin http://localhost:54855 does not have permission to access the resource.
+2023-10-11 15:31:11.852 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.CreateandUpdateAppointment (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:31:11.860 +05:30 [INF] Route matched with {action = "CreateandUpdateAppointment", controller = "Appointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Boolean]] CreateandUpdateAppointment(Appointment_Scheduling_Application.Entitie.Model.AppointmentModel) on controller Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-11 15:31:12.098 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Boolean'.
+2023-10-11 15:31:12.100 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.CreateandUpdateAppointment (Appointment_Scheduling_Application.WebAPI) in 239.6258ms
+2023-10-11 15:31:12.100 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.CreateandUpdateAppointment (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:31:12.100 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Appointment/CreateandUpdateAppointment application/json 223 - 200 - application/json;+charset=utf-8 284.5273ms
+2023-10-11 15:31:37.072 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail?UserId=1 - -
+2023-10-11 15:31:37.076 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:31:37.081 +05:30 [INF] Route matched with {action = "GetByEmail", controller = "Appointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel]]] GetByEmail(Int32) on controller Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-11 15:31:37.221 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel, Appointment_Scheduling_Application.Entitie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-10-11 15:31:37.232 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI) in 150.8167ms
+2023-10-11 15:31:37.233 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-11 15:31:37.233 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail?UserId=1 - - - 200 - application/json;+charset=utf-8 160.9717ms

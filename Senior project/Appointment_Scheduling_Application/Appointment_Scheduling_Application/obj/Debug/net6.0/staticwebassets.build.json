@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "lNTN00Ovh3JiiuloUdXH+KKFUGJeGkshrViROUzLr5k=",
+  "Source": "Appointment_Scheduling_Application.WebAPI",
+  "BasePath": "_content/Appointment_Scheduling_Application.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\ALL COMPLETED DEMO PROJECT\\ASSESMENT PROJECT\\Appointment_Scheduling_Application\\Appointment_Scheduling_Application.Repositories\\Appointment_Scheduling_Application.Repositories.csproj",
+      "Version": 2,
+      "Source": "Appointment_Scheduling_Application.Repositories",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "D:\\ALL COMPLETED DEMO PROJECT\\ASSESMENT PROJECT\\Appointment_Scheduling_Application\\Appointment_Scheduling_Application.Services\\Appointment_Scheduling_Application.Services.csproj",
+      "Version": 2,
+      "Source": "Appointment_Scheduling_Application.Services",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+2023-11-22 16:30:48.346 +05:30 [INF] User profile is available. Using 'C:\Users\naveen.devendran\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-22 16:30:49.337 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-22 16:30:49.344 +05:30 [INF] Hosting environment: Development
+2023-11-22 16:30:49.344 +05:30 [INF] Content root path: D:\Assessment-Project\Appointment-Scheduling-App\Appointment_Scheduling_Application\Appointment_Scheduling_Application\
+2023-11-22 16:30:49.702 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/index.html - -
+2023-11-22 16:30:52.640 +05:30 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-11-22 16:30:52.665 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/index.html - - - 200 - text/html;charset=utf-8 2974.5812ms
+2023-11-22 16:30:53.379 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2023-11-22 16:30:54.096 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 716.2803ms
+2023-11-22 16:31:05.944 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2023-11-22 16:31:06.397 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 453.1150ms

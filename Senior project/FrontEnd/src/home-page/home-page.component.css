@@ -1,0 +1,137 @@
+body{
+    height:160vh;
+    width: 100% !important;
+    background-image: url(https://content.thriveglobal.com/wp-content/uploads/2018/08/businesswomen.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.Description{
+    color: rgba(15, 1, 1, 0.847);
+    font-size:40px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left:5% ;
+}
+.message{
+    padding-top: 150px;
+}
+.message:hover{
+    cursor: pointer;
+}
+.Card-message{
+    height: 425px;
+    width: 95%;
+    box-shadow: 10px 10px 5px rgba(1, 31, 41, 0.39);
+    background-color: rgb(255, 255, 255);
+}
+.upper-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.Information-card{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.806);
+    font-family: 'Times New Roman', Times, serif;
+}
+.Information-title{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.Information-message{
+    font-size: 20px;
+}
+.signbtn{
+    padding:10px 20px 10px 20px;
+    background-color: orange;
+    border-radius: 25px;
+    font-weight: bolder;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.bottom{
+    padding-top: 50px;
+    height: 270px;
+    width: 100%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.persons-image{
+    border-radius: 100%;
+    border-top: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: -50px;
+}
+.person{
+    text-align: center;
+    font-size: 18px;
+    height: 250px;
+    width: 350px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 5px rgba(1, 31, 41, 0.39);
+}
+.person-name{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.morebtn{
+    display: flex;
+    justify-content: center;align-items: center;
+    color: black;
+    font-size: 18px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+.second-person{
+    margin: 0 50px 0 50px;
+}
+.more{
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 25px;
+}
+.more:hover{
+    color: white;
+    background-color: rgba(128, 128, 128, 0.87);
+}
+.help-image{
+    border-radius: 100%;
+    position: fixed;
+    height: 75px;
+    width: 75px;
+    cursor: pointer;
+    box-shadow: 10px 10px 5px rgba(1, 31, 41, 0.594);
+}
+.help-bot{
+    padding-left: 92%;
+}
+.signbtn:hover{
+    box-shadow: 5px 5px 5px rgba(1, 31, 41, 0.594);
+    color:white;
+    border: 0.5px solid black;
+}
+.baseimage{
+    width: 100%;
+}
+.onlinedot{
+    width:10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: red;
+    border: 2px solid black;
+    position: fixed;
+    margin-left: 55px;
+    margin-top: 2px;
+}
+.loginpage{
+    position: fixed;
+    top:150px;
+    padding-left:34%;
+}

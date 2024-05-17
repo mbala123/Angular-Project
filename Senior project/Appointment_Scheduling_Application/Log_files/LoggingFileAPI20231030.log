@@ -1,0 +1,136 @@
+2023-10-30 14:48:43.374 +05:30 [INF] User profile is available. Using 'C:\Users\naveen.devendran\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-10-30 14:48:43.631 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-30 14:48:43.635 +05:30 [INF] Hosting environment: Development
+2023-10-30 14:48:43.636 +05:30 [INF] Content root path: D:\Assessment-Project\Appointment-Scheduling-App\Appointment_Scheduling_Application\Appointment_Scheduling_Application\
+2023-10-30 14:48:43.685 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/index.html - -
+2023-10-30 14:48:44.818 +05:30 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2023-10-30 14:48:44.823 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/index.html - - - 200 - text/html;charset=utf-8 1145.9511ms
+2023-10-30 14:48:44.840 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2023-10-30 14:48:45.137 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 297.8517ms
+2023-10-30 14:48:45.384 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2023-10-30 14:48:45.496 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.4322ms
+2023-10-30 14:50:21.749 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Auth/GetToken - -
+2023-10-30 14:50:21.758 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:21.762 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - -
+2023-10-30 14:50:21.765 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:21.765 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Auth/GetToken - - - 204 - - 16.8675ms
+2023-10-30 14:50:21.766 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - - - 204 - - 4.3164ms
+2023-10-30 14:50:21.770 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json -
+2023-10-30 14:50:21.773 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:21.775 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33
+2023-10-30 14:50:21.775 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:21.784 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:21.904 +05:30 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetToken(Appointment_Scheduling_Application.DTO.DTOs.EmailIdField) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:50:21.914 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2023-10-30 14:50:21.922 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-10-30 14:50:21.935 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2023-10-30 14:50:21.936 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json - - 0 - - 166.0949ms
+2023-10-30 14:50:21.994 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33
+2023-10-30 14:50:21.997 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json -
+2023-10-30 14:50:22.002 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:22.003 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:22.003 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:22.005 +05:30 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetToken(Appointment_Scheduling_Application.DTO.DTOs.EmailIdField) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:50:22.008 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2023-10-30 14:50:22.009 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-10-30 14:50:22.010 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2023-10-30 14:50:22.012 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json - - 401 - - 14.9018ms
+2023-10-30 14:50:26.899 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-10-30 14:50:26.899 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-10-30 14:50:26.915 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI) in 4896.5945ms
+2023-10-30 14:50:26.915 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI) in 4996.6329ms
+2023-10-30 14:50:26.918 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:26.918 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:26.931 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33 - 200 - text/plain;+charset=utf-8 5155.9879ms
+2023-10-30 14:50:26.931 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33 - 200 - text/plain;+charset=utf-8 4936.3819ms
+2023-10-30 14:50:52.060 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/TotalMeetingTime/GetTodaytotalandRemaningHours/ndeva6798@gmail.com - -
+2023-10-30 14:50:52.060 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/TotalAppointment/GetByIdandDate/ndeva6798@gmail.com - -
+2023-10-30 14:50:52.060 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:52.061 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/TotalMeetingTime/GetTodaytotalandRemaningHours/ndeva6798@gmail.com - - - 204 - - 1.0104ms
+2023-10-30 14:50:52.061 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:52.062 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/TotalAppointment/GetByIdandDate/ndeva6798@gmail.com - - - 204 - - 1.6189ms
+2023-10-30 14:50:52.063 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/TotalMeetingTime/GetTodaytotalandRemaningHours/ndeva6798@gmail.com application/json -
+2023-10-30 14:50:52.064 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/TotalAppointment/GetByIdandDate/ndeva6798@gmail.com application/json -
+2023-10-30 14:50:52.066 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:52.067 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:52.258 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.TotalAppointmentController.GetByIdandDate (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:52.259 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.TotalMeetingTimeController.GetTodaytotalandRemaningHours (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:52.269 +05:30 [INF] Route matched with {action = "GetByIdandDate", controller = "TotalAppointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Appointment_Scheduling_Application.Entitie.Model.TotalAppointmentModel]] GetByIdandDate(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.TotalAppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:50:52.269 +05:30 [INF] Route matched with {action = "GetTodaytotalandRemaningHours", controller = "TotalMeetingTime"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Appointment_Scheduling_Application.DTO.DTOs.TotalMeetingTimeDto]] GetTodaytotalandRemaningHours(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.TotalMeetingTimeController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:50:52.947 +05:30 [INF] Executing OkObjectResult, writing value of type 'Appointment_Scheduling_Application.Entitie.Model.TotalAppointmentModel'.
+2023-10-30 14:50:52.951 +05:30 [INF] Executing ObjectResult, writing value of type 'Appointment_Scheduling_Application.DTO.DTOs.TotalMeetingTimeDto'.
+2023-10-30 14:50:52.954 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.TotalAppointmentController.GetByIdandDate (Appointment_Scheduling_Application.WebAPI) in 684.9549ms
+2023-10-30 14:50:52.955 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.TotalAppointmentController.GetByIdandDate (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:52.955 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.TotalMeetingTimeController.GetTodaytotalandRemaningHours (Appointment_Scheduling_Application.WebAPI) in 685.0607ms
+2023-10-30 14:50:52.955 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.TotalMeetingTimeController.GetTodaytotalandRemaningHours (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:52.956 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/TotalAppointment/GetByIdandDate/ndeva6798@gmail.com application/json - - 200 - application/json;+charset=utf-8 892.2355ms
+2023-10-30 14:50:52.956 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/TotalMeetingTime/GetTodaytotalandRemaningHours/ndeva6798@gmail.com application/json - - 200 - application/json;+charset=utf-8 892.6510ms
+2023-10-30 14:50:56.860 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - -
+2023-10-30 14:50:56.860 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:56.861 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - - - 204 - - 0.9562ms
+2023-10-30 14:50:56.863 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json -
+2023-10-30 14:50:56.863 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:50:56.863 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:56.869 +05:30 [INF] Route matched with {action = "GetByEmail", controller = "Appointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel]]] GetByEmail(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:50:56.880 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel, Appointment_Scheduling_Application.Entitie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-10-30 14:50:56.884 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI) in 15.3065ms
+2023-10-30 14:50:56.884 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:50:56.885 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json - - 200 - application/json;+charset=utf-8 22.1025ms
+2023-10-30 14:51:13.327 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Auth/GetToken - -
+2023-10-30 14:51:13.328 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:13.329 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Auth/GetToken - - - 204 - - 1.1099ms
+2023-10-30 14:51:13.330 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33
+2023-10-30 14:51:13.330 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:13.330 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:13.330 +05:30 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetToken(Appointment_Scheduling_Application.DTO.DTOs.EmailIdField) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:51:13.338 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - -
+2023-10-30 14:51:13.338 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:13.340 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - - - 204 - - 1.7904ms
+2023-10-30 14:51:13.342 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json -
+2023-10-30 14:51:13.342 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:13.343 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:13.344 +05:30 [INF] Route matched with {action = "GetByEmail", controller = "Appointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel]]] GetByEmail(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:51:13.349 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel, Appointment_Scheduling_Application.Entitie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-10-30 14:51:13.351 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI) in 6.7743ms
+2023-10-30 14:51:13.351 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:13.352 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json - - 200 - application/json;+charset=utf-8 9.4144ms
+2023-10-30 14:51:13.365 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-10-30 14:51:13.366 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI) in 35.304ms
+2023-10-30 14:51:13.366 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:13.366 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33 - 200 - text/plain;+charset=utf-8 36.3801ms
+2023-10-30 14:51:17.048 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json -
+2023-10-30 14:51:17.049 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:17.050 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:17.050 +05:30 [INF] Route matched with {action = "GetByEmail", controller = "Appointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel]]] GetByEmail(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:51:17.062 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel, Appointment_Scheduling_Application.Entitie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-10-30 14:51:17.063 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI) in 12.5634ms
+2023-10-30 14:51:17.063 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:17.063 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json - - 200 - application/json;+charset=utf-8 14.9072ms
+2023-10-30 14:51:53.110 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Auth/GetToken - -
+2023-10-30 14:51:53.110 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:53.111 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Auth/GetToken - - - 204 - - 1.2241ms
+2023-10-30 14:51:53.112 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33
+2023-10-30 14:51:53.112 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:53.112 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:53.113 +05:30 [INF] Route matched with {action = "GetToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetToken(Appointment_Scheduling_Application.DTO.DTOs.EmailIdField) on controller Appointment_Scheduling_Application.WebAPI.Auth.AuthController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:51:53.115 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - -
+2023-10-30 14:51:53.115 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:53.116 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com - - - 204 - - 0.7543ms
+2023-10-30 14:51:53.120 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json -
+2023-10-30 14:51:53.121 +05:30 [INF] CORS policy execution successful.
+2023-10-30 14:51:53.122 +05:30 [INF] Executing endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:53.122 +05:30 [INF] Route matched with {action = "GetByEmail", controller = "Appointment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel]]] GetByEmail(System.String) on controller Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController (Appointment_Scheduling_Application.WebAPI).
+2023-10-30 14:51:53.124 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-10-30 14:51:53.125 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI) in 11.798ms
+2023-10-30 14:51:53.125 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Auth.AuthController.GetToken (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:53.125 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:54855/api/Auth/GetToken application/json 33 - 200 - text/plain;+charset=utf-8 13.0809ms
+2023-10-30 14:51:53.126 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Appointment_Scheduling_Application.Entitie.Model.AppointmentModel, Appointment_Scheduling_Application.Entitie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-10-30 14:51:53.127 +05:30 [INF] Executed action Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI) in 4.5464ms
+2023-10-30 14:51:53.127 +05:30 [INF] Executed endpoint 'Appointment_Scheduling_Application.WebAPI.Controllers.AppointmentController.GetByEmail (Appointment_Scheduling_Application.WebAPI)'
+2023-10-30 14:51:53.127 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/api/Appointment/GetByEmail/ndeva6798@gmail.com application/json - - 200 - application/json;+charset=utf-8 6.5889ms
+2023-10-30 17:37:14.918 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/_vs/browserLink - -
+2023-10-30 17:37:15.010 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 93.9113ms
+2023-10-30 17:37:15.250 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - -
+2023-10-30 17:37:15.329 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:54855/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 78.6767ms
