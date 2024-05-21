@@ -1,0 +1,36 @@
+/* Container style */
+.container {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+/* Table style */
+table#student {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Table header style */
+table#student th {
+    background-color: #f2f2f2;
+    color: #333;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+}
+
+
+/* Table cell style */
+table#student td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Additional styles */
+table#student th,
+table#student td {
+    text-align: center;
+}
+
