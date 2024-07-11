@@ -1,0 +1,18 @@
+<nav>
+  @if(this.userId!=null){
+  <ul>
+    <li><button (click)="home()">Home</button></li>
+    <li><button (click)="viewfile()">View All files</button></li>
+    <li><button (click)="addfile()">Add New File</button></li>
+    <li><button (click)="addCategory()">Add Category</button></li>
+    <li><button (click)="logout()">Logout</button></li>
+    <!-- <li>Welcome {{ this.loginDetails.userName }}</li> -->
+  </ul>
+  } @else{
+  <ul>
+    <li><a routerLink="/home">Home</a></li>
+    <li><button (click)="login()">Login</button></li>
+    <li><button (click)="signup()">Signup</button></li>
+  </ul>
+  }
+</nav>

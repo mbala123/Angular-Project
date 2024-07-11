@@ -25,7 +25,7 @@ export class FormatdatePipe implements PipeTransform {
         }
       }
     }
-    return (day+suffix(day)+" "+month+" "+year)
+    return (day+suffix(day)+" of "+month+" "+year)
   }
 
 }

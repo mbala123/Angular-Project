@@ -1,0 +1,50 @@
+<div class="file-list-container">
+  <h2>File List</h2>
+  <div *ngIf="dataSource && dataSource.data.length > 0; else noFilesTemplate">
+    <button type="button" (click)="adddialogueopen()">Add New File</button>
+
+    <table class="example-table mat-elevation-z8" mat-table [dataSource]="dataSource">
+      <ng-container matColumnDef="fileId">
+        <th mat-header-cell *matHeaderCellDef> File ID </th>
+        <td mat-cell *matCellDef="let file"> {{file.fileId}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="fileName">
+        <th mat-header-cell *matHeaderCellDef> File Name </th>
+        <td mat-cell *matCellDef="let file"> {{file.fileName}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="category">
+        <th mat-header-cell *matHeaderCellDef> Category </th>
+        <td mat-cell *matCellDef="let file"> {{file.category.categoryName}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="createdOn">
+        <th mat-header-cell *matHeaderCellDef> Created On </th>
+        <td mat-cell *matCellDef="let file"> {{file.createdOn | date}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="securityType">
+        <th mat-header-cell *matHeaderCellDef> Security Type </th>
+        <td mat-cell *matCellDef="let file"> {{file.securityType}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="actions">
+        <th mat-header-cell *matHeaderCellDef> Actions </th>
+        <td mat-cell *matCellDef="let file">
+          <button mat-button (click)="fileVerification(file.fileId, 'Download')">Download</button>
+          <button mat-button (click)="fileVerification(file.fileId, 'Delete')">Delete</button>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+
+    <mat-paginator [pageSizeOptions]="[5]" showFirstLastButtons></mat-paginator>
+  </div>
+
+  <ng-template #noFilesTemplate>
+    <p>No files are available.</p>
+  </ng-template>
+</div>

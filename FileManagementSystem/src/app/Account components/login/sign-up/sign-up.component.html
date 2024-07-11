@@ -1,0 +1,30 @@
+<mat-dialog-content class="mat-dialog-content">
+  <div class="signup-container">
+    <form class="signup-form" #signupForm="ngForm" (ngSubmit)="submit(signupForm)">
+      <h2>Sign Up for File Manager</h2>
+      <div class="form-group">
+        <label for="username">Name</label>
+        <input type="text" id="username" name="username" [(ngModel)]="user.name" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" [(ngModel)]="user.email" required>
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" [(ngModel)]="user.password" required>
+      </div>
+      <div class="form-group">
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" id="confirmPassword" name="confirmPassword" [(ngModel)]="user.confirmPassword" required>
+      </div>
+      <button type="submit">Sign Up</button>
+    </form>
+    <p>
+      <button class="signup-button" (click)="Login()" >Already have an account? Please Login</button>
+    </p>
+  </div>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Close</button>
+</mat-dialog-actions> 

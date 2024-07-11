@@ -1,0 +1,83 @@
+.custom-dialog-content {
+    max-height: 100vh;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.file-upload-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.file-upload-container h2 {
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.file-upload-container .form-group {
+    margin-bottom: 15px;
+}
+
+.file-upload-container label {
+    display: block;
+    color: #666666;
+    margin-bottom: 5px;
+}
+
+.file-upload-container select,
+.file-upload-container input[type="file"],
+.file-upload-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+.file-upload-container select {
+    appearance: none;
+    /* Remove default appearance */
+    background-color: #ffffff;
+}
+
+.file-upload-container input[type="file"] {
+    border: none;
+    background-color: transparent;
+}
+
+.password-fields {
+    margin-top: 10px;
+}
+
+.button-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button-group button {
+    margin-left: 10px;
+}
+
+.mat-raised-button {
+    min-width: 120px;
+    font-size: 16px;
+}
+
+.mat-dialog-actions {
+    justify-content: flex-end;
+    padding: 10px 20px;
+    border-top: 1px solid #cccccc;
+    background-color: #f0f0f0;
+}
+
+.mat-dialog-actions button {
+    margin-left: 10px;
+}
+
+.mat-dialog-actions button.mat-button {
+    min-width: auto;
+    /* Override default minimum width */
+}

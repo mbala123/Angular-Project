@@ -1,0 +1,25 @@
+<form >
+    <mat-form-field appearance="fill">
+        <mat-label>Enter your name</mat-label>
+        <input type="text" matInput placeholder="Name" required=""/>
+    </mat-form-field>
+
+     
+    <mat-form-field appearance="fill">
+        <mat-label>Select your designation</mat-label>  
+        <mat-select>
+            <mat-option value="1">Mr.</mat-option>
+             <mat-option value="2">Ms.</mat-option>
+              <mat-option value="3">Mrs.</mat-option>
+               <mat-option value="4">Dr.</mat-option>
+        </mat-select>
+        </mat-form-field>
+
+    <mat-form-field appearance="fill">
+        <mat-label>Choose your date of birth</mat-label>
+        <input matInput [matDatepicker]="picker" required=""/>
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+</form>
+        <button mat-button (click)="openDialog()">Submit</button>

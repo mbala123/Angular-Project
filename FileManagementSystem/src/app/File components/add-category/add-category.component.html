@@ -1,0 +1,25 @@
+<mat-dialog-content>
+  <div class="container">
+    <h2>Add Categories</h2>
+    <form (ngSubmit)="onSubmit()" #categoryForm="ngForm">
+      <div *ngFor="let category of categories; let i = index" class="form-group">
+        <label for="categoryName{{i}}">Category Name {{i + 1}}</label>
+        <input
+          type="text"
+          id="categoryName{{i}}"
+          class="form-control"
+          [(ngModel)]="category.name"
+          name="categoryName{{i}}"
+          required
+        />
+        <!-- <button type="button" class="btn btn-danger btn-sm" (click)="removeCategory(i)">Remove</button> -->
+      </div>
+      <button type="button" class="btn btn-secondary mt-3" (click)="addCategory()">Add More</button>
+      <button type="submit" class="btn btn-primary mt-3">Submit</button>
+    </form>
+  </div>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Close</button>
+</mat-dialog-actions>

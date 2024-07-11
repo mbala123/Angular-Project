@@ -1,0 +1,28 @@
+<mat-sidenav-container style="height: 100vh;">
+  <mat-sidenav #sidenav mode="side" opened="true" style="width: 200px; background-color:aliceblue;">
+    <p>
+      <button mat-button (click)="form()">Forms</button>
+      
+    </p>
+   
+    <p>
+      <button mat-button (click)="table()">Tables</button>
+    </p>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button mat-icon-button (click)="sidenav.toggle()">
+        <mat-icon>menu</mat-icon>
+      </button>
+      Examples
+    </mat-toolbar>
+    <div><h1>Welcome</h1></div>
+     <div *ngIf="formview">
+        <app-form></app-form>
+      </div>
+       <div *ngIf="tableview">
+        <app-table></app-table>
+      </div>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>

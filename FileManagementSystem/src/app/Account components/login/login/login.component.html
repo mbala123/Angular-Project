@@ -1,0 +1,22 @@
+<mat-dialog-content>
+<div class="login-container">
+  <form class="login-form">
+    <h2>Login to File Manager</h2>
+    <div class="form-group">
+      <label for="usermail">User Email</label>
+      <input type="text" id="usermail" name="usermail" [(ngModel)]="log.userMail" required>
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" [(ngModel)]="log.password" required>
+    </div>
+    <button type="button" (click)="submit()">Login</button>
+  </form> 
+  <p>
+    <button class="signup-button" onclick="window.location.href='/sign-up'">Dont have an account? Please Signup</button>
+    </p>
+</div>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Close</button>
+</mat-dialog-actions> 

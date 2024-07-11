@@ -1,0 +1,45 @@
+<mat-dialog-content class="custom-dialog-content">
+  <div class="file-upload-container">
+    <form (ngSubmit)="onSubmit()" #fileUploadForm="ngForm">
+      <h2>Upload File</h2>
+      
+      <div class="form-group">
+        <label for="category">Category</label>
+        <select id="category" name="category" [(ngModel)]="file.category" (ngModelChange)="onCategoryChange($event)" required>
+          <option *ngFor="let category of categories" [value]="category.categoryId">{{ category.categoryName }}</option>
+          <option value="addNew">Add new category</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="securityType">Security Type</label>
+        <select id="securityType" name="securityType" [(ngModel)]="file.securityType"  required>
+          <option value="Protected">Protected</option>
+          <option value="Unprotected">Unprotected</option>
+        </select>
+      </div>
+
+      <!-- Additional Fields for Password -->
+      <div *ngIf="file.securityType === 'Protected'" class="password-fields">
+        <div class="form-group">
+          <label for="password">Enter Password</label>
+          <input type="password" id="password" name="password" [(ngModel)]="file.password" required>
+        </div>
+        <div class="form-group">
+          <label for="confirmPassword">Confirm Password</label>
+          <input type="password" id="confirmPassword" name="confirmPassword" [(ngModel)]="file.confirmPassword" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="file">Choose File</label>
+        <input type="file" id="file" (change)="onFileSelected($event)" required>
+      </div>
+
+      <div class="button-group">
+        <button type="submit" mat-raised-button color="primary">Upload</button>
+        <button mat-button mat-dialog-close>Cancel</button>
+      </div>
+    </form>
+  </div>
+</mat-dialog-content>

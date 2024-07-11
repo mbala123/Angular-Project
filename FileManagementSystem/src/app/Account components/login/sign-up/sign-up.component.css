@@ -1,0 +1,68 @@
+/* Styles for mat-dialog-content */
+.mat-dialog-content {
+    padding: 20px;
+    max-height: calc(100vh - 40px);
+    overflow-y: hidden;
+   
+}
+
+/* Styles for the signup container */
+.signup-container {
+    text-align: center;
+    max-height: 100%;
+}
+
+/* Styles for the signup form */
+.signup-form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.signup-form h2 {
+    font-size: 1.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Styles for form groups */
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+    /* Align form labels and inputs to the left */
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #34495e;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Styles for buttons */
+button[type="submit"],
+button.signup-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+}
+
+button[type="submit"]:hover,
+button.signup-button:hover {
+    background-color: #2980b9;
+}

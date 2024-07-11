@@ -1,0 +1,28 @@
+@if(this.userId !=null){
+  <div class="split-layout">
+  <div class="left-column">
+    <!-- Left side content -->
+  </div>
+  <div class="right-column">
+    <div class="parent-card">
+      <div class="card" *ngFor="let category of categories" (click)="GetCategoryFiles(category.categoryId)">
+        <h5>{{ category.categoryName }}</h5>
+      </div>
+    </div>
+  </div>
+</div>
+} 
+@else {
+<div class="welcome-container">
+  <h1 class="welcome-title">Welcome to File Management System</h1>
+  <h2 class="welcome-subtitle">
+    Please click login if you have an account already!!!
+  </h2>
+  <h2 class="welcome-subtitle">Click sign up button to create a new user</h2>
+  <p class="welcome-description">
+    You can create your own categories and store files in different categories.
+    This is a personalized file management system where you can upload,
+    download, and delete files. You can also protect your files.
+  </p>
+</div>
+}
